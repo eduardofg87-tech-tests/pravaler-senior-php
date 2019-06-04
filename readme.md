@@ -6,10 +6,12 @@ The method names and variables should not be changed, craft your solution using 
 
 ## Composer
 Install the dependencies using composer
+
 `composer install`
 
 ## Tests
 Run the tests using PHP Unit
+
 `php vendor/phpunit/phpunit/phpunit tests/ProvaTest.php`
 
 ![alt text](https://github.com/eduardofg87-tech-tests/pravaler-senior-php/blob/master/tests.png)
